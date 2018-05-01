@@ -1,0 +1,8 @@
+[package]
+name = "remarkable-fractals"
+version = "0.1.0"
+authors = ["Daniel <daniel@buffered.me>"]
+
+[dependencies]
+libremarkable = "0.1.25"
+num-complex = "0.1"
